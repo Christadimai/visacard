@@ -1,2 +1,7 @@
 1. Gather requirements
+ a. setup calls
+  b. get user stories list
 2. New requirements
+3. JIRA Setup
+5. RBA
+
